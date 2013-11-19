@@ -1,1 +1,7 @@
+/* TODO: possible pallete from: http://www.colourlovers.com/palette/1283145/The_Way_You_Love_Me?widths=0 */
+/* TODO: see videotabsplus.less files for overriding bootstrap defaults */
+
 /* CSS declarations go here */
+body{
+  background-color: #1C2130;
+}
